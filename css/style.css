@@ -1,24 +1,30 @@
 body {
-  color: brown;
+  background-color: rgba(199, 255, 255, 0.471);
+  opacity: 80%;
+  color: rgb(119, 255, 0);
 }
 
 h1 {
-  color: red;
+  color: rgb(0, 89, 255);
 }
 
 .quote {
-  color: gray;
+  color: rgb(255, 0, 0);
+  text-shadow: 6cap;
+  ;
+  
+  
 }
 
-.quote.narrator {
-  color: black;
+.quote .narrator {
+  color: rgb(26, 255, 0);
 }
 
 #intro p {
-  color: green;
+  color: rgb(255, 3, 129);
 }
 
 .super-important-omg {
   font-size: 20px;
-  background-color: yellow;
+  background-color: rgb(255, 255, 202);
 }
